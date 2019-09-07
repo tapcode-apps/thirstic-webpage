@@ -25,7 +25,7 @@ your_city                                 : South Tyrol
 email_address                             : support@tapcode.co
 facebook_username                         :                                           
 instagram_username                        : 
-twitter_username                          : tapcode
+twitter_username                          : thirstic
 github_username                           : 
 youtube_username                          :
 
@@ -85,7 +85,7 @@ cover_image                               : assets/headerimage.png              
 cover_overlay_color                       : "#000000"
 cover_overlay_transparency                : 0.0
 
-device_color                              : blue                                      # Set to: blue, black, yellow, coral or white.
+device_color                              : yellow                                      # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
