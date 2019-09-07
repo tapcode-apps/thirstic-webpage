@@ -17,21 +17,21 @@ Thirstic does not send any health or activity data to remote servers. All health
 
 ## Full version
 
-This policy applies to all information collected or submitted on Thirstic's website ([thirstic.app](https://thirstic.app), [thirstic.com](https://thirstic.com)) and our apps for iPhone and any other devices and platforms. By using our services and apps, you consent to this privacy policy.
+This policy applies to all information collected or submitted on Thirstic's website and our apps for iPhone and any other devices and platforms. By using our services and apps, you consent to this privacy policy.
 
 ### Information we collect
 
 We do not collect any sensitive health or activity data. All health-related data processing is performed and stored on your device.
 
-If you decide to enable weather forecasts in the app settings, we need to send your approximate location to our weather data provider [Dark Sky (privacy policy)](https://darksky.net/privacy) in order to download daily weather forecasts.
+If you decide to enable weather forecasts in the app settings, we need to send your approximate location to our weather data provider [Dark Sky](https://darksky.net/privacy) in order to download daily weather forecasts.
 
-Anonymized data about the your in-app purchases and basic app usage information is send to our purchase validation service [Revenue Cat (privacy policy)](https://www.revenuecat.com/privacy).
+Anonymized data about the your in-app purchases and basic app usage information is send to our purchase validation service [Revenue Cat](https://www.revenuecat.com/privacy).
 
 The mentioned information may be processed, stored, and used outside of the country in which you are located.
 
 ### Analytics
 
-Anonymized app usage information is send to our purchase validation service [Revenue Cat (privacy policy)](https://www.revenuecat.com/privacy). No other third-party analytics services are included in the app.
+Anonymized app usage information is send to our purchase validation service [Revenue Cat](https://www.revenuecat.com/privacy). No other third-party analytics services are included in the app.
 
 If you have opted-in to share anonymized information with app developers in the iOS settings, we will receive anonymized usage statistics from Apple.
 
@@ -43,11 +43,11 @@ We may disclose the information we have in response to subpoenas, court orders, 
 
 ### Security
 
-Your water intake is securely stored in Apple's encrypted Health app data store and your intake goal is estimated and stored within the app on your device.  
+Your water intake is securely stored in Apple's encrypted Health app and your intake goal is estimated and stored within Thirstic on your device.  
 
 ### Contacting us
 
-If you have questions regarding this privacy policy, you can contact us from our [contact page](https://tapcode.co/support).
+If you have questions regarding this privacy policy, you can contact us from our [contact page](https://tapcode.co/contact).
 
 ### Changes to this policy
 
