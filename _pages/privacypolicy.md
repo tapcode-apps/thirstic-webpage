@@ -9,7 +9,7 @@ September 7, 2019
 
 # Privacy Policy
 
-## In short: We've got your back
+## Short version: We've got your back
 
 Our goal is helping you drinking enough water during your day - *not to track you*! We want the least information possible from you, unless you contact us yourself. 
 
