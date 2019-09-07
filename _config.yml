@@ -77,13 +77,13 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              : "#0999fa"
+topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#000000"
-cover_overlay_transparency                : 1.0
+cover_overlay_transparency                : 0.0
 
 device_color                              : blue                                      # Set to: blue, black, yellow, coral or white.
 
@@ -98,11 +98,11 @@ app_description_color                     : "#000000"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#0999fa"
-feature_icons_background_color            : "#000000"
+feature_icons_foreground_color            : "#ffffff"
+feature_icons_background_color            : "#0999fa"
 
-social_icons_foreground_color             : "#0999fa"
-social_icons_background_color             : "#000000"
+social_icons_foreground_color             : "#ffffff"
+social_icons_background_color             : "#0999fa"
 
 footer_text_color                         : "#666666"
 
