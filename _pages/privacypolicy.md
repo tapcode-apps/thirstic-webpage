@@ -13,7 +13,7 @@ September 7, 2019
 
 Our goal is helping you drinking enough water during your day - *not to track you*! We want the least information possible from you, unless you contact us yourself. 
 
-Thirstic does not send any health or activity data to remote servers. All health-related data processing is performed and stored on your device. If you enable weather forecasts in the app settings, we need to send your approximate location to our weather data provider [Dark Sky](https://darksky.net/privacy). Anonymized data about your in-app purchases and basic app usage information is send to our purchase validation service [Revenue Cat](https://www.revenuecat.com/privacy).
+Thirstic does not send any health or activity data to remote servers. All health-related data processing is performed and stored on your device. If you enable weather forecasts in the app settings, we need to send your approximate location to our weather data provider [Dark Sky](https://darksky.net/privacy). Anonymized data about your in-app purchases and basic app usage information is send to our purchase validation service [RevenueCat](https://www.revenuecat.com/privacy).
 
 ## Full version
 
@@ -25,13 +25,13 @@ We do not collect any sensitive health or activity data. All health-related data
 
 If you decide to enable weather forecasts in the app settings, we need to send your approximate location to our weather data provider [Dark Sky](https://darksky.net/privacy) in order to download daily weather forecasts.
 
-Anonymized data about the your in-app purchases and basic app usage information is send to our purchase validation service [Revenue Cat](https://www.revenuecat.com/privacy).
+Anonymized data about the your in-app purchases and basic app usage information is send to our purchase validation service [RevenueCat](https://www.revenuecat.com/privacy).
 
 The mentioned information may be processed, stored, and used outside of the country in which you are located.
 
 ### Analytics
 
-Anonymized app usage information is send to our purchase validation service [Revenue Cat](https://www.revenuecat.com/privacy). No other third-party analytics services are included in the app.
+Anonymized app usage information is send to our purchase validation service [RevenueCat](https://www.revenuecat.com/privacy). No other third-party analytics services are included in the app.
 
 If you have opted-in to share anonymized information with app developers in the iOS settings, we will receive anonymized usage statistics from Apple.
 
