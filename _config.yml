@@ -47,7 +47,7 @@ features                                  :
     fontawesome_icon_name                 : sun
 
   - title                                 : Sipping is healthier than gulping
-    description                           : Thirstic assists you drinking in small amounts throughout your day, instead of only emphasizing your total daily water intake goal.
+    description                           : Thirstic assists you drinking water in small amounts throughout your day, instead of only emphasizing your total daily water intake goal.
     fontawesome_icon_name                 : glass-whiskey
 
   - title                                 : Smart reminders
@@ -63,7 +63,7 @@ features                                  :
     fontawesome_icon_name                 : dot-circle
 
   - title                                 : Works best with your fitness tracker
-    description                           : Thirstic works best with Apple Watch or any other fitness tracker that stores burned calories into Health. Otherwise, the app will use the step counter from your iPhone.
+    description                           : Thirstic works best with fitness trackers that stores burned calories into Health. Otherwise, the app will use the step counter from your iPhone.
     fontawesome_icon_name                 : burn
 
   - title                                 : Private & secure
