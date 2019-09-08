@@ -63,7 +63,7 @@ features                                  :
     fontawesome_icon_name                 : dot-circle
 
   - title                                 : Works best with your fitness tracker
-    description                           : Thirstic works best with fitness trackers that stores burned calories into Health. Otherwise, the app will use the step counter from your iPhone.
+    description                           : Thirstic works best with fitness trackers that store burned calories into Health. Otherwise, the app will use the step counter from your iPhone.
     fontawesome_icon_name                 : burn
 
   - title                                 : Private & secure
