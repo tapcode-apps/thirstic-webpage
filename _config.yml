@@ -39,7 +39,7 @@ features                                  :
     fontawesome_icon_name                 : magic
     
   - title                                 : Adapts to your activity
-    description                           : Doing your regular workout on Tuesday and Thursday evening? Thirstic will learn the patterns and update your suggested water intake automatically in the background. 
+    description                           : Doing your regular workout on Tuesday and Thursday evening? Thirstic will learn the patterns and update your suggested water intake automatically. 
     fontawesome_icon_name                 : running
 
   - title                                 : Adapts to weather conditions
@@ -51,19 +51,19 @@ features                                  :
     fontawesome_icon_name                 : glass-whiskey
 
   - title                                 : Smart reminders
-    description                           : Instead of sending you notifications in fixed time intervals, Thirstic sends you a reminder if you reach a specified „thirst threshold“ (for example 300 ml or 10 fl oz).
+    description                           : Instead of sending you notifications in fixed time intervals, Thirstic reminds you if you reach a specified „thirst threshold“ (for example 300 ml or 10 fl oz).
     fontawesome_icon_name                 : bell
   
-  - title                                 : Minimalistic & straightforward
-    description                           : A minimalistic and straightforward user interface allows you to add your water intake with a single tap.
-    fontawesome_icon_name                 : dot-circle
-
   - title                                 : Customize preferences
     description                           : Change the parameters of your water intake estimate to your personal preferences, resulting in higher or lower daily water intake goals.
     fontawesome_icon_name                 : cog
 
+  - title                                 : Minimalistic & straightforward
+    description                           : A minimalistic and straightforward user interface allows you to add your water intake with a single tap.
+    fontawesome_icon_name                 : dot-circle
+
   - title                                 : Works best with your fitness tracker
-    description                           : Thirstic works best with Apple Watch or any other fitness tracker that writes active and resting energy to your Health app. Otherwise, the app will use the step counter from your iPhone.
+    description                           : Thirstic works best with Apple Watch or any other fitness tracker that stores burned calories into Health. Otherwise, the app will use the step counter from your iPhone.
     fontawesome_icon_name                 : burn
 
   - title                                 : Private & secure
