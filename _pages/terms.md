@@ -9,6 +9,6 @@ September 8, 2019
 
 # Terms & Conditions
 
-For Thirstic, Apple's [Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) applies.
+By downloading or using Thirstic, the [Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula) from Apple applies to you.
 
-In addition, by downloading or using Thirstic, you agree to our [Privacy Policy](privacypolicy.md) and our [Disclaimer](disclaimer.md).
+In addition, you agree to our [Privacy Policy](https://thirstic.app/privacypolicy) and our [Disclaimer](https://thirstic.app/disclaimer).
