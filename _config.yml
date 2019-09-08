@@ -34,45 +34,42 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : A smart reminder
+    description                           : Thirstic helps you drinking enough water during your day by taking into account your activity and weather conditions in your area.
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Adapts to your activity
+    description                           : Doing your regular workout on Tuesday and Thursday evening? Thirstic will learn the patterns and update your suggested water intake automatically in the background. 
+    fontawesome_icon_name                 : running
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Adapts to weather conditions
+    description                           : Heatwave on the horizont? Thirstic has you covered! Your suggested water intake will automatically increase.
+    fontawesome_icon_name                 : sun
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Sipping is healthier than gulping
+    description                           : Thirstic assists you drinking in small amounts throughout your day, instead of only emphasizing your total daily water intake goal.
+    fontawesome_icon_name                 : glass-whiskey
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Smart reminders
+    description                           : Instead of sending you notifications in fixed time intervals, Thirstic sends you a reminder if you reach a specified „thirst threshold“ (for example 300 ml or 10 fl oz).
+    fontawesome_icon_name                 : bell
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : Minimalistic & straightforward
+    description                           : A minimalistic and straightforward user interface allows you to add your water intake with a single tap.
+    fontawesome_icon_name                 : dot-circle
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : Customize preferences
+    description                           : Change the parameters of your water intake estimate to your personal preferences, resulting in higher or lower daily water intake goals.
+    fontawesome_icon_name                 : cog
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+  - title                                 : Works best with your fitness tracker
+    description                           : Thirstic works best with Apple Watch or any other fitness tracker that writes active and resting energy to your Health app. Otherwise, the app will use the step counter from your iPhone.
+    fontawesome_icon_name                 : burn
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : Private & secure
+    description                           : All the advanced calculations in this app are powered by your iPhone. No health or activity data leaves your device and is securely stored in your Health app.
+    fontawesome_icon_name                 : lock
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
