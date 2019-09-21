@@ -12,7 +12,7 @@ presskit_download_link                    : assets/thirstic_press_kit.zip       
 app_icon                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Thirstic                                  # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free with in-app purchases                # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : The first smart water drink reminder that automatically adapts to your activity and weather conditions.
+app_description                           : The first smart water tracker and reminder that automatically adapts to your activity and the weather conditions.
 
 enable_smart_app_banner                   : false                                     # Set to true to show a smart app banner at top of page on mobile devices.
 
