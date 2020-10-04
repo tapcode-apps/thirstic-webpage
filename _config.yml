@@ -62,8 +62,8 @@ features                                  :
     description                           : A minimalistic and straightforward user interface allows you to add your water intake with a single tap.
     fontawesome_icon_name                 : dot-circle
 
-  - title                                 : Works best with your fitness tracker
-    description                           : Thirstic works best with fitness trackers that store burned calories into Health. Otherwise, the app will use the step counter from your iPhone.
+  - title                                 : Works best with Apple Watch
+    description                           : Thirstic works best with Apple Watch or any other fitness trackers that writes burned calories into HealthKit. If this data is not available, Thirstic uses the step counter from your iPhone.
     fontawesome_icon_name                 : burn
 
   - title                                 : Private & secure
