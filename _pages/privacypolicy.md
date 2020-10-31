@@ -31,7 +31,7 @@ The mentioned information may be processed, stored, and used outside of the coun
 
 ### Analytics
 
-Anonymized app usage information is send to our purchase validation service [RevenueCat](https://www.revenuecat.com/privacy). No other third-party analytics services are included in the app.
+Anonymized app usage information is send to our purchase validation service [RevenueCat](https://www.revenuecat.com/privacy), for the solely purpose to validate your purchases and unlock premium features and identify potential app problems. No other third-party analytics service is included in the app.
 
 If you have opted-in to share anonymized information with app developers in the iOS settings, we will receive anonymized usage statistics from Apple.
 
