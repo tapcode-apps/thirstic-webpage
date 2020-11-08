@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-September 8, 2019
+November 8, 2010
 
 # Privacy Policy
 
@@ -47,10 +47,11 @@ Your water intake is securely stored in Apple's encrypted Health app and your in
 
 ### Contacting us
 
-If you have questions regarding this privacy policy, you can contact us from our [contact page](https://tapcode.co/contact).
+If you have questions regarding this privacy policy, you can contact us from our [home page](https://tapcode.co/about/).
 
 ### Changes to this policy
 
 If we decide to change our privacy policy, we will post those changes on this page. Summary of changes so far:
 
-- September 7, 2019: First published.
+- September 7, 2019: First published
+- November 8, 2020: Updated links
