@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-November 8, 2020
+July 18, 2023
 
 # Privacy Policy
 
@@ -13,7 +13,7 @@ November 8, 2020
 
 Our goal is helping you drinking enough water during your day - *not to track you*! We want the least information possible from you, unless you contact us yourself. 
 
-Thirstic does not send any health or activity data to remote servers. All health-related data processing is performed and stored on your device. If you enable weather forecasts in the app settings, we need to send your approximate location to our weather data provider [Dark Sky](https://darksky.net/privacy). Anonymized data about your in-app purchases and basic app usage information is send to our purchase validation service [RevenueCat](https://www.revenuecat.com/privacy).
+Thirstic does not send any health or activity data to remote servers. All health-related data processing is performed and stored on your device. If you enable weather forecasts in the app settings, we need to send your approximate location to our weather data provider [Apple Weather](https://www.apple.com/legal/privacy/data/en/weather/). Anonymized data about your in-app purchases and basic app usage information is send to our purchase validation service [RevenueCat](https://www.revenuecat.com/privacy).
 
 ## Full version
 
@@ -23,7 +23,7 @@ This policy applies to all information collected or submitted on Thirstic's webs
 
 We do not collect any sensitive health or activity data. All health-related data processing is performed and stored on your device.
 
-If you decide to enable weather forecasts in the app settings, we need to send your approximate location to our weather data provider [Dark Sky](https://darksky.net/privacy) in order to download daily weather forecasts.
+If you decide to enable weather forecasts in the app settings, we need to send your approximate location to our weather data provider [Apple Weather]https://www.apple.com/legal/privacy/data/en/weather/) in order to download daily weather forecasts.
 
 Anonymized data about the your in-app purchases and basic app usage information is send to our purchase validation service [RevenueCat](https://www.revenuecat.com/privacy).
 
@@ -55,3 +55,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 - September 7, 2019: First published
 - November 8, 2020: Updated links
+- July 18, 2023: Migrated from Dark Sky to Apple Weather
